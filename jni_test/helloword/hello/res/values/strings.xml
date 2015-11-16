@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">驱动编写练习之jni</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Jnilog">Jni Log</string>
+    <string name="jni_call">利用jni的方法直接访问驱动</string>
+    <string name="action_settings">Settings</string>
+</resources>
